@@ -1,10 +1,10 @@
 🚀 CoreScript Engine: Code-First Game Development
+
 CoreScript Engine is a high-performance, open-source game development framework designed for developers who prefer programmatic control over visual interfaces. It offers a powerful foundation for 2D and 3D games by exposing the entire game world as accessible, scriptable objects, making it an ideal choice for rapid prototyping, simulation development, and creating highly customized game logic.
 
 🔑 Key Features
-Script-Driven Workflow: Unlike traditional game engines, CoreScript Engine provides no built-in graphical user interface (GUI). All objects, components, and scene structures are initialized, configured, and manipulated directly through your main game scripts.
 
-Full Python Integration: The engine is built with native Python bindings, allowing developers to implement all game logic using the simplicity and power of Python. This includes creating objects, handling input, defining game loops, and attaching behavior scripts.
+Script-Driven Workflow: Unlike traditional game engines, CoreScript Engine provides no built-in graphical user interface (GUI). All objects, components, and scene structures are initialized, configured, and manipulated directly through your main game scripts.
 
 Hierarchical Workspace Model: Inspired by high-level engines, CoreScript utilizes a central engine.workspace variable, giving direct programmatic access to:
 
